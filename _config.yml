@@ -1,0 +1,28 @@
+name: Wisdom Council
+favicon: null
+layout_spectrum: 0.915587151190266
+typography_spectrum: 0.8565972449723631
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.43691362137906253
+  lightness: 0.6311369612812996
+  saturation: 0.466819321969524
+  rhythmicContrast: 0.7964116611983627
+purpose: []
